@@ -3,8 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Hello 👋\
-Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention!\
-Welcome to the Bridging Tradition and Safety project! 🌍✨ We're excited to bridge cultural heritage 🧑‍🎨 and safety innovations 🛡️ to support Indigenous communities.
+Welcome to the Bridging Tradition and Safety project! 🌍✨ A Community-Based Study on Indigenous Footwear and Fall Prevention!\
+We're excited to bridge cultural heritage 🧑‍🎨 and safety innovations 🛡️ to support Indigenous communities.
 
 
 
