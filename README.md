@@ -12,7 +12,12 @@ Our project investigates the role of Indigenous footwear in fall prevention, foc
 
 Through collaborative engagement with Indigenous communities, we aim to gain insights into their footwear preferences, cultural values, and experiences with slips and falls. Our goal is to co-create solutions that blend cultural integrity with modern safety features, ensuring the findings are practical and meaningful for Indigenous populations.
 
-### Using this Repository
+### What Makes This Project Special, Useful, and Exciting 🌟
+Bridging Tradition and Innovation: We honor the cultural significance of traditional footwear while improving safety with modern slip-resistant designs.\
+Community-Based Collaboration: Indigenous elders, cultural knowledge holders, and fall prevention experts guide the research, making it a truly inclusive project.\
+Holistic Approach with Two-Eyed Seeing: By integrating Indigenous and Western knowledge, we bring together two ways of knowing to create well-rounded solutions.\
+Direct Impact on Public Health: Our recommendations will enhance safety and reduce fall risks, making everyday activities safer for Indigenous populations.\
+
 
 ![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
 
