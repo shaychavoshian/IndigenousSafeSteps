@@ -86,7 +86,7 @@ Co-developing knowledge with Indigenous communities. 🤝
 Testing the slip resistance of footwear in labs. 🥾🧪
 Providing design recommendations that blend safety and tradition. 💡
 
-**🛣️ Roadmap & Milestones**
+**🛣️ Roadmap & MilestonesExplore partnerships to implement design improvements within the Indigenous footwear industry.
 Goals:
 
 Collaborate with Indigenous communities to understand their needs and priorities. 🧑‍🤝‍🧑
@@ -110,18 +110,18 @@ Disseminate findings within communities and through academic publications 📚.
 - [ ] Collect qualitative data from sharing circles about footwear preferences, slips, falls, and traditional footwear significance.
 - [ ] Analyze qualitative data using content analysis and two-eyed seeing methodology.
 - [ ] Co-create recommendations with Indigenous communities on improving footwear for fall prevention.
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
-- [ ] Add badges
+- [ ] Acquire samples of Indigenous and Western footwear for testing.
+- [ ] Set up laboratory testing with controlled surfaces (dry and wet).
+- [ ] Conduct slip resistance tests on all footwear samples.
+- [ ] Analyze quantitative data using t-tests to compare slip resistance scores.
+- [ ] Identify specific design elements contributing to slip risk.
+- [ ] Develop recommendations to enhance Indigenous footwear design while preserving cultural integrity.
+- [ ] Share findings with Indigenous communities through accessible channels (e.g., local events, newsletters).
+- [ ] Publish academic articles to disseminate research outcomes.
+- [ ] Present recommendations to Indigenous footwear manufacturers and healthcare providers.
+- [ ] Explore partnerships to implement design improvements within the Indigenous footwear industry.
 
-👥 The Team
+**👥 The Team**
 Members:
 Shaghayegh Chavoshian: Project Lead and Community Liaison 👩‍🏫
 Roles & Responsibilities: Check the Team Directory 📂 for detailed roles and responsibilities.
@@ -144,11 +144,9 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
 licensor endorses you or your use and with no additional restrictions.
 
-🤝 Acknowledgement
+**🤝 Acknowledgement**
 ---
 
-This repository has been created for anyone to reuse -- please attribute us as:
-> This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contributors ✨
 
