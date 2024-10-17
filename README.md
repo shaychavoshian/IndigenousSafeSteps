@@ -20,19 +20,6 @@ Community-Based Collaboration: Indigenous elders, cultural knowledge holders, an
 Holistic Approach with Two-Eyed Seeing: By integrating Indigenous and Western knowledge, we bring together two ways of knowing to create well-rounded solutions.\
 Direct Impact on Public Health: Our recommendations will enhance safety and reduce fall risks, making everyday activities safer for Indigenous populations.
 
-
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
-
-<!--If reusing this repository, delete this section -->
 ## Vision 🌠
 
 A world where Indigenous communities thrive safely without compromising cultural traditions. We aim to redefine fall prevention by incorporating Indigenous wisdom into footwear design, making it accessible, safe, and culturally meaningful.
@@ -78,7 +65,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 └──
 ```
 
-**🏆 Mission**
+## 🏆 Mission
 
 We aim to reduce falls by:
 
@@ -86,7 +73,8 @@ Co-developing knowledge with Indigenous communities. 🤝
 Testing the slip resistance of footwear in labs. 🥾🧪
 Providing design recommendations that blend safety and tradition. 💡
 
-**🛣️ Roadmap & MilestonesExplore partnerships to implement design improvements within the Indigenous footwear industry.
+## 🛣️ Roadmap & Milestones
+Explore partnerships to implement design improvements within the Indigenous footwear industry.
 Goals:
 
 Collaborate with Indigenous communities to understand their needs and priorities. 🧑‍🤝‍🧑
@@ -121,56 +109,20 @@ Disseminate findings within communities and through academic publications 📚.
 - [ ] Present recommendations to Indigenous footwear manufacturers and healthcare providers.
 - [ ] Explore partnerships to implement design improvements within the Indigenous footwear industry.
 
-**👥 The Team**
-Members:
-Shaghayegh Chavoshian: Project Lead and Community Liaison 👩‍🏫
-Roles & Responsibilities: Check the Team Directory 📂 for detailed roles and responsibilities.
-🤝 Contributing
-Guidelines: Follow our Contribution Guidelines 🛠️.
-Code of Conduct: Review the Code of Conduct 📏 to maintain a respectful and inclusive environment.
-Resource Plans: Check available resources 📑 and best practices for effective collaboration.
+## 👥 The Team
 
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any queries or concerns, you can directly reach out to Shay Chavoshian by emailing [shay.chavoshian@mail.utoronto.ca](shay.chavoshian@mail.utoronto.ca).
 
 ♻️ License
 ---
 
-This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation).
-You are free to share and adapt the material for any purpose, even commercially,
-as long as you provide attribution (give appropriate credit, provide a link to the license,
-and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use and with no additional restrictions.
+This work is licensed under the 
 
 **🤝 Acknowledgement**
 ---
 
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
