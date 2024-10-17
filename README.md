@@ -36,56 +36,6 @@ After creating your own copy of this repository, you can edit or delete existing
 ## Vision 🌠
 
 A world where Indigenous communities thrive safely without compromising cultural traditions. We aim to redefine fall prevention by incorporating Indigenous wisdom into footwear design, making it accessible, safe, and culturally meaningful.
-```
-# Project Quick Start
-
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
-
-*A sentence summarising what to expect from this repository*  
-
-## Vision and Mission
-
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
-
-## About
-
-Motivation and background in a nutshell.
-
-## Roadmap & Milestones
-
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
-
-## The Team
-
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
-
-## Contributing
-
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
-
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
-## Citing & Acknowledgement
-
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
-
-## Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-```
-
-
-<!--If reusing this repository, delete this section -->
 
 ## Repo Structure
 
@@ -128,15 +78,27 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 └──
 ```
 
-**Maintainers**
+**🏆 Mission**
 
-This repository has been set up and maintained by Shay Chavoshian to support this work.
+We aim to reduce falls by:
 
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
+Co-developing knowledge with Indigenous communities. 🤝
+Testing the slip resistance of footwear in labs. 🥾🧪
+Providing design recommendations that blend safety and tradition. 💡
 
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
+🛣️ Roadmap & Milestones
+Goals:
 
-🎯 Roadmap
+Collaborate with Indigenous communities to understand their needs and priorities. 🧑‍🤝‍🧑
+Compare Indigenous and Western footwear for slip resistance. ⚖️
+Provide design recommendations to enhance traditional footwear while maintaining cultural integrity. 🎨
+Outcomes:
+
+Insights from sharing circles 🗣️ on footwear and slip experiences.
+Quantitative data 📊 comparing footwear slip resistance on dry and wet surfaces.
+Practical recommendations for culturally respectful safety improvements. 🔧
+Disseminate findings within communities and through academic publications 📚.
+
 ---
 
 ### Checklist for the project 
@@ -158,6 +120,15 @@ As an open source repository, anyone beyond these teams is very welcome to reuse
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
 - [ ] Add badges
+
+👥 The Team
+Members:
+Shaghayegh Chavoshian: Project Lead and Community Liaison 👩‍🏫
+Roles & Responsibilities: Check the Team Directory 📂 for detailed roles and responsibilities.
+🤝 Contributing
+Guidelines: Follow our Contribution Guidelines 🛠️.
+Code of Conduct: Review the Code of Conduct 📏 to maintain a respectful and inclusive environment.
+Resource Plans: Check available resources 📑 and best practices for effective collaboration.
 
 📫 Contact
 ---
