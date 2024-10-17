@@ -16,7 +16,7 @@ Through collaborative engagement with Indigenous communities, we aim to gain ins
 Bridging Tradition and Innovation: We honor the cultural significance of traditional footwear while improving safety with modern slip-resistant designs.\
 Community-Based Collaboration: Indigenous elders, cultural knowledge holders, and fall prevention experts guide the research, making it a truly inclusive project.\
 Holistic Approach with Two-Eyed Seeing: By integrating Indigenous and Western knowledge, we bring together two ways of knowing to create well-rounded solutions.\
-Direct Impact on Public Health: Our recommendations will enhance safety and reduce fall risks, making everyday activities safer for Indigenous populations.\
+Direct Impact on Public Health: Our recommendations will enhance safety and reduce fall risks, making everyday activities safer for Indigenous populations.
 
 
 ![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
@@ -31,15 +31,9 @@ Your streamlined project setup is just three steps away:
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
-## About README
+## Vision 🌠
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
+A world where Indigenous communities thrive safely without compromising cultural traditions. We aim to redefine fall prevention by incorporating Indigenous wisdom into footwear design, making it accessible, safe, and culturally meaningful.
 ```
 # Project Quick Start
 
