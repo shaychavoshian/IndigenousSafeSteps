@@ -2,13 +2,12 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention\
+Hello 👋
+Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention!\
 This initiative focuses on Indigenous footwear and fall prevention, blending cultural traditions with scientific research to promote safety. We're excited to embark on this journey together, empowering communities and advancing public health.
 
 
-## About this Repository
-
+## Project Description 🌍👟
 This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
