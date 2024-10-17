@@ -86,7 +86,7 @@ Co-developing knowledge with Indigenous communities. 🤝
 Testing the slip resistance of footwear in labs. 🥾🧪
 Providing design recommendations that blend safety and tradition. 💡
 
-🛣️ Roadmap & Milestones
+**🛣️ Roadmap & Milestones**
 Goals:
 
 Collaborate with Indigenous communities to understand their needs and priorities. 🧑‍🤝‍🧑
@@ -103,13 +103,13 @@ Disseminate findings within communities and through academic publications 📚.
 
 ### Checklist for the project 
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
+- [ ] Build relationships with Indigenous communities through meetings with elders, leaders, and healthcare professionals.
+- [ ] Form a collaborative working group with elders, cultural knowledge holders, industry representatives, and fall prevention experts.
+- [ ] Develop a culturally sensitive research plan with community input.
+- [ ] Organize and conduct sharing circles co-led by Indigenous elders.
+- [ ] Collect qualitative data from sharing circles about footwear preferences, slips, falls, and traditional footwear significance.
+- [ ] Analyze qualitative data using content analysis and two-eyed seeing methodology.
+- [ ] Co-create recommendations with Indigenous communities on improving footwear for fall prevention.
     - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
 - [ ] Create a directory with files for project management (meetings, reports, proposals)
 - [ ] Create a directory with files for communications
