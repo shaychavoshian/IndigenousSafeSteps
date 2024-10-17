@@ -3,7 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+*Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention
+This initiative focuses on Indigenous footwear and fall prevention, blending cultural traditions with scientific research to promote safety. We're excited to embark on this journey together, empowering communities and advancing public health.
+*
 
 ## About this Repository
 
@@ -130,7 +132,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository has been set up and maintained by Shay Chavoshian to support this work.
 
 As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
 
@@ -139,7 +141,7 @@ As an open source repository, anyone beyond these teams is very welcome to reuse
 🎯 Roadmap
 ---
 
-### Checklist for setting an online repository 
+### Checklist for the project 
 
 - [ ] Add a README file
 - [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
