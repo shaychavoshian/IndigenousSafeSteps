@@ -3,9 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention\
+Welcome to the Bridging Tradition and Safety project! A Community-Based Study on Indigenous Footwear and Fall Prevention\
 This initiative focuses on Indigenous footwear and fall prevention, blending cultural traditions with scientific research to promote safety. We're excited to embark on this journey together, empowering communities and advancing public health.
-*
+
 
 ## About this Repository
 
