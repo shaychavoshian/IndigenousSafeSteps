@@ -8,11 +8,9 @@ This initiative focuses on Indigenous footwear and fall prevention, blending cul
 
 
 ## Project Description 🌍👟
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+Our project investigates the role of Indigenous footwear in fall prevention, focusing on the slip resistance of traditional designs compared to Western footwear. Falls are a pressing health issue, especially among older adults, and are even more concerning within Canada’s Indigenous communities, where fall-related hospitalizations are higher.
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+Through collaborative engagement with Indigenous communities, we aim to gain insights into their footwear preferences, cultural values, and experiences with slips and falls. Our goal is to co-create solutions that blend cultural integrity with modern safety features, ensuring the findings are practical and meaningful for Indigenous populations.
 
 ### Using this Repository
 
