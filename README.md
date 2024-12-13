@@ -72,15 +72,12 @@ Disseminate findings within communities and through academic publications 📚.
 Shay Chavoshian, PhD Student
 Hoda Nabavi, Research Assistance
 Dr. Atena Roshan Fekr, Supervisor
+
 📫 Contact
----
+shay.chavoshian@mail.utoronto.ca
 
 For any queries or concerns, you can directly reach out to Shay Chavoshian by emailing [shay.chavoshian@mail.utoronto.ca](shay.chavoshian@mail.utoronto.ca).
 
-♻️ License
----
-
-This work is licensed under the 
 
 **🤝 Acknowledgement**
 ---
