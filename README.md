@@ -69,7 +69,9 @@ Disseminate findings within communities and through academic publications 📚.
 - [ ] Explore partnerships to implement design improvements within the Indigenous footwear industry.
 
 ## 👥 The Team
-
+Shay Chavoshian, PhD Student
+Hoda Nabavi, Research Assistance
+Dr. Atena Roshan Fekr, Supervisor
 📫 Contact
 ---
 
