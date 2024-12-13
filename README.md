@@ -82,5 +82,7 @@ For any queries or concerns, you can directly reach out to Shay Chavoshian by em
 **🤝 Acknowledgement**
 The funding of this project is from the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada  EDIA Champion Award.
 
+Which pat can be shared
+Why share why not
 
 
