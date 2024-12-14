@@ -47,6 +47,7 @@ Practical recommendations for culturally respectful safety improvements. 🔧
 Disseminate findings within communities and through academic publications 📚.
 
 ---
+![Open Canvas](https://github.com/user-attachments/assets/4ede196d-5ce6-4633-85b7-01cda763d648)
 
 ### Checklist for the project 
 
