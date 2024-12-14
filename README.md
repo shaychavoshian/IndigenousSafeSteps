@@ -69,6 +69,18 @@ Disseminate findings within communities and through academic publications 📚.
 - [ ] Present recommendations to Indigenous footwear manufacturers and healthcare providers.
 - [ ] Explore partnerships to implement design improvements within the Indigenous footwear industry.
 
+## Timelines & Milestones
+
+| Activity/Milestone                                                  | Status           | Planned Completion (dd-mm-yyyy) | Comments/ Revised Completion                           |
+|----------------------------------------------------------------------|------------------|----------------------------------|-------------------------------------------------------|
+| Build trust and initial engagement with the Indigenous community     | On Track         | 30-09-2024                       | Trust-building activities and data collection are ongoing. |
+| Test Indigenous and Western footwear for slip resistance             | On Track         | 31-12-2024                       | Initial comparisons show Indigenous footwear performs well in slip resistance. |
+| Slip detection with radar and privacy-preserving systems             | Not Started      | 31-03-2025                       | Planned for the next phase of the project.            |
+| Conduct qualitative study with Indigenous communities                | Not Started      | 30-06-2025                       | Focused on AI-based footwear slip resistance solutions. |
+| Expand testing to include traditional Indigenous footwear            | Not Started      | 30-06-2025                       | To include more traditional designs for comparison.   |
+
+---
+
 ## 👥 The Team
 Shay Chavoshian, PhD Student
 Hoda Nabavi, Research Assistance
