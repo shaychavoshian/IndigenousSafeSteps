@@ -1,0 +1,102 @@
+# Applicant Progress Report
+
+## Status
+
+| Current Status      | Additional Detail                                                                  |
+|---------------------|------------------------------------------------------------------------------------|
+| **Overall**         | On Track: Initiative aligns with approved timelines and plans.                    |
+| **Schedule**        | On Track: Activities are progressing as per the timeline with minor adjustments.  |
+| **Budget Tracking** | On Track: Majority of expenses align with the initial budget; additional needs identified. |
+| **Risk/Issues**     | Issue: Need for additional funds for travel, honorariums, and testing equipment.  |
+
+---
+
+## Timelines & Milestones
+
+| Activity/Milestone                                                  | Status           | Planned Completion (dd-mm-yyyy) | Comments/ Revised Completion                           |
+|----------------------------------------------------------------------|------------------|----------------------------------|-------------------------------------------------------|
+| Build trust and initial engagement with the Indigenous community     | On Track         | 30-09-2024                       | Trust-building activities and data collection are ongoing. |
+| Test Indigenous and Western footwear for slip resistance             | On Track         | 31-12-2024                       | Initial comparisons show Indigenous footwear performs well in slip resistance. |
+| Slip detection with radar and privacy-preserving systems             | Not Started      | 31-03-2025                       | Planned for the next phase of the project.            |
+| Conduct qualitative study with Indigenous communities                | Not Started      | 30-06-2025                       | Focused on AI-based footwear slip resistance solutions. |
+| Expand testing to include traditional Indigenous footwear            | Not Started      | 30-06-2025                       | To include more traditional designs for comparison.   |
+
+---
+
+## Risks
+
+| Description                                                   | Escalation (Y/N) | Risk Likelihood (High/Med/Low) | Risk Impact (H/M/L) | Mitigation in Place? (Y/N) & Describe                                    |
+|---------------------------------------------------------------|------------------|---------------------------------|---------------------|--------------------------------------------------------------------------|
+| Additional funds required for honorariums and travel expenses | Y                | Medium                          | Medium              | Y: Seeking approval for additional funding.                              |
+| Potential delays in data collection during winter testing     | N                | Low                             | Medium              | Y: Adjusted timelines to ensure flexibility.                             |
+| Recruitment challenges for qualitative study participants     | N                | Medium                          | High                | Y: Leveraging existing community relationships for engagement.           |
+| Limited access to specialized mechanical testing equipment    | Y                | Medium                          | Medium              | Y: Budget allocation for travel to IRSST for equipment access.           |
+
+---
+
+## Key Performance Indicators (KPIs)
+
+| Description                                              | Metric/KPI                                | Target             | Date Target to be Achieved? | Target Achieved? (Y/N) If 'No', provide rationale             |
+|----------------------------------------------------------|-------------------------------------------|--------------------|-----------------------------|--------------------------------------------------------------|
+| Build trust with Indigenous communities                  | Number of participants engaged            | 20 participants    | 30-09-2024                  | Y                                                           |
+| Data collection for slip resistance comparison           | Number of footwear pairs tested           | 10 footwear pairs  | 31-12-2024                  | Y                                                           |
+| AI-based privacy-preserving slip detection system        | Initial prototype developed               | Prototype ready    | 31-03-2025                  | N: Planned for next half of the term.                      |
+| Qualitative study participation                          | Number of community members interviewed   | 15 participants    | 30-06-2025                  | N: Recruitment not yet started.                           |
+
+---
+
+## Comments
+
+- **Community Engagement**:  
+  Building strong relationships with the Indigenous community has been a priority. Trust-building activities have progressed well, and data collection for footwear comparisons is ongoing. Indigenous-designed footwear has been identified as an inspiration for slip-resistant designs.
+
+- **Data Collection**:  
+  We tested 10 footwear pairs (Indigenous and Western designs) and are continuing data collection, which will be completed by the end of 2024.
+
+- **Budget**:  
+  So far, we have spent $2000 on purchasing Indigenous footwear, $3000 on booking the Winter Lab, and $300 on participant compensation. An additional $1000 will be required for honorariums for focus groups and $1000 for conference registration. Testing with mechanical devices at IRSST in Montreal will require $500 for travel expenses.
+
+- **Knowledge Translation and Social Media**:  
+  We prepared a demo to showcase our results to the community, patients, and scientists at UHN. This demo was highly successful and well-received.
+
+- **Courses**:  
+  I completed courses in cultural safety and digital health, which have strengthened my approach to inclusive and ethical research practices.
+
+- **Future Focus**:  
+  The next phase includes testing traditional Indigenous footwear designs, developing AI-based solutions for slip resistance measurements, and conducting qualitative studies to assess community adoption.
+
+- **Challenges**:  
+  Securing additional funds and ensuring community participation for qualitative studies remain key focus areas.
+
+---
+
+## Budget Summary
+
+| Item                            | Amount Spent ($) | Additional Needs ($) | Description                                          |
+|---------------------------------|------------------|-----------------------|------------------------------------------------------|
+| Indigenous footwear purchase    | 2000             | 0                     | Purchased 10 pairs for comparison tests.             |
+| Winter Lab bookings             | 3000             | 0                     | Used for slip resistance testing.                    |
+| Participant compensation        | 300              | 1000                  | Honorariums for focus groups.                        |
+| Conference registration         | 0                | 1000                  | For presenting research results.                     |
+| Travel expenses (IRSST testing) | 0                | 500                   | Access to specialized mechanical testing equipment.  |
+
+---
+
+## Next Steps
+
+1. Continue trust-building activities with Indigenous communities.
+2. Complete data collection and finalize slip resistance comparisons by December 2024.
+3. Begin AI development for slip detection systems (March 2025 target).
+4. Plan and recruit participants for qualitative studies (June 2025 target).
+
+---
+
+## Repository Usage
+
+This document serves as a progress report for tracking milestones, risks, and updates. Use the repository to:
+
+1. Submit updates to timelines and milestones.
+2. Track changes in KPIs and budget summaries.
+3. Share additional resources and findings with the team.
+
+**[Submit issues or pull requests](https://github.com/your-repo/issues) for further contributions.**
